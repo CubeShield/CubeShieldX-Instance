@@ -1,0 +1,463 @@
+{
+	"name": "CubeShield X",
+	"description": "Cheto estb",
+	"containers": [
+		{
+			"content_type": "mods",
+			"content": [
+				{
+					"file": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+					"url": "https://cdn.modrinth.com/data/1bokaNcj/versions/VfhlV9am/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
+				},
+				{
+					"file": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
+					"url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ATTRzxT3/XaerosWorldMap_1.39.12_Forge_1.20.jar"
+				},
+				{
+					"file": "appleskin-forge-mc1.20.1-2.5.1.jar",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar"
+				},
+				{
+					"file": "skinlayers3d-forge-1.9.0-mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/PXEUtoct/skinlayers3d-forge-1.9.0-mc1.20.1.jar"
+				},
+				{
+					"file": "Jade-1.20.1-Forge-11.13.2.jar",
+					"url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar"
+				},
+				{
+					"file": "voicechat-forge-1.20.1-2.6.5.jar",
+					"url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/damBjxr6/voicechat-forge-1.20.1-2.6.5.jar"
+				},
+				{
+					"file": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+					"url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+				},
+				{
+					"file": "chat_heads-0.14.0-forge-1.20.jar",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/2OV95AUL/chat_heads-0.14.0-forge-1.20.jar"
+				},
+				{
+					"file": "shulkerboxtooltip-forge-4.0.4+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/2M01OLQq/versions/QMp2SF1u/shulkerboxtooltip-forge-4.0.4%2B1.20.1.jar"
+				},
+				{
+					"file": "waystones-forge-1.20.1-14.1.17.jar",
+					"url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/WozH13dr/waystones-forge-1.20.1-14.1.17.jar"
+				},
+				{
+					"file": "Quark-4.0-462.jar",
+					"url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar"
+				},
+				{
+					"file": "lootr-forge-1.20-0.7.35.93.jar",
+					"url": "https://cdn.modrinth.com/data/EltpO5cN/versions/pvIQeqjt/lootr-forge-1.20-0.7.35.93.jar"
+				},
+				{
+					"file": "amendments-1.20-2.2.2.jar",
+					"url": "https://cdn.modrinth.com/data/6iTJugQR/versions/NCs7sRuH/amendments-1.20-2.2.2.jar"
+				},
+				{
+					"file": "create-1.20.1-6.0.6.jar",
+					"url": "https://cdn.modrinth.com/data/LNytGWDc/versions/JjPQsQVw/create-1.20.1-6.0.6.jar"
+				},
+				{
+					"file": "AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+					"url": "https://cdn.modrinth.com/data/9NM0dXub/versions/xqigG9AR/AdvancementPlaques-1.20.1-forge-1.6.9.jar"
+				},
+				{
+					"file": "Iceberg-1.20.1-forge-1.1.25.jar",
+					"url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar"
+				},
+				{
+					"file": "durabilitytooltip-1.1.6-forge-mc1.20.jar",
+					"url": "https://cdn.modrinth.com/data/smUP7V3r/versions/f6rQqHhW/durabilitytooltip-1.1.6-forge-mc1.20.jar"
+				},
+				{
+					"file": "CraftPresence-2.6.2+1.20.1-forge.jar",
+					"url": "https://cdn.modrinth.com/data/DFqQfIBR/versions/cDvgcIoe/CraftPresence-2.6.2%2B1.20.1-forge.jar"
+				},
+				{
+					"file": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+					"url": "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar"
+				},
+				{
+					"file": "Steam_Rails-1.6.13-alpha+forge-mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/ezVPFGKZ/Steam_Rails-1.6.13-alpha%2Bforge-mc1.20.1.jar"
+				},
+				{
+					"file": "Sounds-2.2.1+1.20.1+forge.jar",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar"
+				},
+				{
+					"file": "creeperoverhaul-3.0.2-forge.jar",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Ap1DSAzz/creeperoverhaul-3.0.2-forge.jar"
+				},
+				{
+					"file": "FpsReducer2-forge-1.20.1-2.5.1.jar",
+					"url": "https://cdn.modrinth.com/data/iZ10HXDj/versions/UfMtCXs7/FpsReducer2-forge-1.20.1-2.5.1.jar"
+				},
+				{
+					"file": "refinedstorage-1.12.4.jar",
+					"url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ZITLFjjf/refinedstorage-1.12.4.jar"
+				},
+				{
+					"file": "Mekanism-1.20.1-10.4.16.80.jar",
+					"url": "https://cdn.modrinth.com/data/Ce6I4WUE/versions/uxe1WQp4/Mekanism-1.20.1-10.4.16.80.jar"
+				},
+				{
+					"file": "MekanismGenerators-1.20.1-10.4.16.80.jar",
+					"url": "https://cdn.modrinth.com/data/OFVYKsAk/versions/Th4Czz4N/MekanismGenerators-1.20.1-10.4.16.80.jar"
+				},
+				{
+					"file": "MekanismTools-1.20.1-10.4.16.80.jar",
+					"url": "https://cdn.modrinth.com/data/tqQpq1lt/versions/VzpFbUpF/MekanismTools-1.20.1-10.4.16.80.jar"
+				},
+				{
+					"file": "MekanismAdditions-1.20.1-10.4.16.80.jar",
+					"url": "https://cdn.modrinth.com/data/a6F3uASn/versions/RFiZ24he/MekanismAdditions-1.20.1-10.4.16.80.jar"
+				},
+				{
+					"file": "ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+					"url": "https://cdn.modrinth.com/data/tIm2nV03/versions/WUzj4tgJ/ImmersiveEngineering-1.20.1-10.2.0-183.jar"
+				},
+				{
+					"file": "Botania-1.20.1-450-FORGE.jar",
+					"url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/cuN4HNDd/Botania-1.20.1-450-FORGE.jar"
+				},
+				{
+					"file": "extrabotany-forge-1.20.1-1.9.1.jar",
+					"url": "https://cdn.modrinth.com/data/zG0IqeQj/versions/3CHl82gt/extrabotany-forge-1.20.1-1.9.1.jar"
+				},
+				{
+					"file": "TConstruct-1.20.1-3.10.2.92.jar",
+					"url": "https://cdn.modrinth.com/data/rxIIYO6c/versions/FGU09YgL/TConstruct-1.20.1-3.10.2.92.jar"
+				},
+				{
+					"file": "ZeroCore2-1.20.1-2.1.45.jar",
+					"url": "https://cdn.modrinth.com/data/rHpb85Mf/versions/OIzaNrPI/ZeroCore2-1.20.1-2.1.45.jar"
+				},
+				{
+					"file": "ExtremeReactors2-1.20.1-2.0.84.jar",
+					"url": "https://cdn.modrinth.com/data/idkvShUy/versions/5A5jbWkI/ExtremeReactors2-1.20.1-2.0.84.jar"
+				},
+				{
+					"file": "Rats-1.20.1-8.1.3.jar",
+					"url": "https://cdn.modrinth.com/data/CETpiisl/versions/EbBp44Gs/Rats-1.20.1-8.1.3.jar"
+				},
+				{
+					"file": "DivineRPG-1.10.7.5.jar",
+					"url": "https://cdn.modrinth.com/data/F3kLpGw6/versions/iPO1zRlr/DivineRPG-1.10.7.5.jar"
+				},
+				{
+					"file": "bloodmagic-1.20.1-3.3.3-45.jar",
+					"url": "https://cdn.modrinth.com/data/PbNc6qBY/versions/KoL2JNWd/bloodmagic-1.20.1-3.3.3-45.jar"
+				},
+				{
+					"file": "ars_nouveau-1.20.1-4.12.7-all.jar",
+					"url": "https://cdn.modrinth.com/data/TKB6INcv/versions/Hw2aD01e/ars_nouveau-1.20.1-4.12.7-all.jar"
+				},
+				{
+					"file": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+					"url": "https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.1-beta-5.jar"
+				},
+				{
+					"file": "tomeofblood-1.20.1-0.4.4-all.jar",
+					"url": "https://cdn.modrinth.com/data/W5NORTN9/versions/E1ra6iYX/tomeofblood-1.20.1-0.4.4-all.jar"
+				},
+				{
+					"file": "Mantle-1.20.1-1.11.79.jar",
+					"url": "https://cdn.modrinth.com/data/Cg6Uc79H/versions/ATZFAPLK/Mantle-1.20.1-1.11.79.jar"
+				},
+				{
+					"file": "curios-forge-5.14.1+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
+				},
+				{
+					"file": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+				},
+				{
+					"file": "moonlight-1.20-2.16.14-forge.jar",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/vtXrnGIc/moonlight-1.20-2.16.14-forge.jar"
+				},
+				{
+					"file": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+					"url": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+				},
+				{
+					"file": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/rOUBggPv/versions/VWJoqHin/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar"
+				},
+				{
+					"file": "cloth-config-11.1.136-forge.jar",
+					"url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar"
+				},
+				{
+					"file": "Patchouli-1.20.1-84.1-FORGE.jar",
+					"url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1-84.1-FORGE.jar"
+				},
+				{
+					"file": "balm-forge-1.20.1-7.3.36-all.jar",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/tX9xZml9/balm-forge-1.20.1-7.3.36-all.jar"
+				},
+				{
+					"file": "Zeta-1.0-30.jar",
+					"url": "https://cdn.modrinth.com/data/MVARlG2f/versions/boj4QtcB/Zeta-1.0-30.jar"
+				},
+				{
+					"file": "citadel-2.6.2-1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/jJfV67b1/versions/oD1qDb1C/citadel-2.6.2-1.20.1.jar"
+				},
+				{
+					"file": "MRU-1.0.4+1.20.1+forge.jar",
+					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/nKL4LKzM/MRU-1.0.4%2B1.20.1%2Bforge.jar"
+				},
+				{
+					"file": "UniLib-1.1.1+1.20.1-forge.jar",
+					"url": "https://cdn.modrinth.com/data/nT86WUER/versions/5ocNvrC1/UniLib-1.1.1%2B1.20.1-forge.jar"
+				},
+				{
+					"file": "eventwrapper-forge-1.20.1-1.1.3.jar",
+					"url": "https://cdn.modrinth.com/data/k7JPYdTv/versions/RIc77DMb/eventwrapper-forge-1.20.1-1.1.3.jar"
+				},
+				{
+					"file": "Prism-1.20.1-forge-1.0.5.jar",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar"
+				},
+				{
+					"file": "fast-ip-ping-v1.0.7-mc1.20.4-forge.jar",
+					"url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/W1Wnmkqh/fast-ip-ping-v1.0.7-mc1.20.4-forge.jar"
+				},
+				{
+					"file": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+					"url": "https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar"
+				},
+				{
+					"file": "BadOptimizations-2.3.1-1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/BKvbnpID/BadOptimizations-2.3.1-1.20.1.jar"
+				},
+				{
+					"file": "modelfix-1.15.jar",
+					"url": "https://cdn.modrinth.com/data/QdG47OkI/versions/og4A1nN8/modelfix-1.15.jar"
+				},
+				{
+					"file": "ferritecore-6.0.1-forge.jar",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+				},
+				{
+					"file": "entityculling-forge-1.9.0-mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/YeLsMPMs/entityculling-forge-1.9.0-mc1.20.1.jar"
+				},
+				{
+					"file": "fastboot-1.20.x-1.2.jar",
+					"url": "https://cdn.modrinth.com/data/nRL5uFe0/versions/L7hAkvRy/fastboot-1.20.x-1.2.jar"
+				},
+				{
+					"file": "FarmersDelight-1.20.1-1.2.9.jar",
+					"url": "https://cdn.modrinth.com/data/R2OftAxM/versions/8rPF1pFi/FarmersDelight-1.20.1-1.2.9.jar"
+				},
+				{
+					"file": "Compat_FarmersDelight.jar",
+					"url": "https://cdn.modrinth.com/data/JV5T8uGT/versions/Nj18IvDz/Compat_FarmersDelight.jar"
+				},
+				{
+					"file": "YungsApi-1.20-Forge-4.0.6.jar",
+					"url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar"
+				},
+				{
+					"file": "hexcasting-forge-1.20.1-0.11.2.jar",
+					"url": "https://cdn.modrinth.com/data/nTW3yKrm/versions/xENnFQpR/hexcasting-forge-1.20.1-0.11.2.jar"
+				},
+				{
+					"file": "createbigcannons-5.9.1+mc.1.20.1-forge.jar",
+					"url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/hdPNh3oa/createbigcannons-5.9.1%2Bmc.1.20.1-forge.jar"
+				},
+				{
+					"file": "ritchiesprojectilelib-2.1.0+mc.1.20.1-forge.jar",
+					"url": "https://cdn.modrinth.com/data/B3pb093D/versions/MxClZxbS/ritchiesprojectilelib-2.1.0%2Bmc.1.20.1-forge.jar"
+				},
+				{
+					"file": "cbc_at_Forge_1.20.1_0.1.3b.jar",
+					"url": "https://cdn.modrinth.com/data/pTfszyXD/versions/8djtiafy/cbc_at_Forge_1.20.1_0.1.3b.jar"
+				},
+				{
+					"file": "StorageDrawers-forge-1.20.1-12.14.3.jar",
+					"url": "https://cdn.modrinth.com/data/guitPqEi/versions/8raubcF4/StorageDrawers-forge-1.20.1-12.14.3.jar"
+				},
+				{
+					"file": "kotlinforforge-4.11.0-all.jar",
+					"url": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar"
+				},
+				{
+					"file": "caelus-forge-3.2.0+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar"
+				},
+				{
+					"file": "paucal-0.6.0+1.20.1-forge.jar",
+					"url": "https://cdn.modrinth.com/data/TZo2wHFe/versions/HyBiJPtT/paucal-0.6.0%2B1.20.1-forge.jar"
+				},
+				{
+					"file": "inline-forge-1.20.1-1.2.2.jar",
+					"url": "https://cdn.modrinth.com/data/fin1PX4m/versions/H1jsvy53/inline-forge-1.20.1-1.2.2.jar"
+				},
+				{
+					"file": "entityculling-forge-1.9.0-mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/YeLsMPMs/entityculling-forge-1.9.0-mc1.20.1.jar"
+				},
+				{
+					"file": "ferritecore-6.0.1-forge.jar",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+				},
+				{
+					"file": "ImmediatelyFast-Forge-1.5.2+1.20.4.jar",
+					"url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/aFMmx5Ig/ImmediatelyFast-Forge-1.5.2%2B1.20.4.jar"
+				},
+				{
+					"file": "modernfix-forge-5.24.4+mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/nmDcB62a/versions/CixO1IdG/modernfix-forge-5.24.4%2Bmc1.20.1.jar"
+				},
+				{
+					"file": "entity_model_features_1.20.1-forge-3.0.1.jar",
+					"url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/BnU4PnqR/entity_model_features_1.20.1-forge-3.0.1.jar"
+				},
+				{
+					"file": "embeddium-0.3.31+mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+				},
+				{
+					"file": "skinrestorer-2.4.3+1.20-forge.jar",
+					"url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/g7Dm2Sg8/skinrestorer-2.4.3%2B1.20-forge.jar"
+				},
+				{
+					"file": "entity_texture_features_1.20.1-forge-7.0.2.jar",
+					"url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/IFKICSMA/entity_texture_features_1.20.1-forge-7.0.2.jar"
+				},
+				{
+					"file": "starlight-1.1.2+forge.1cda73c.jar",
+					"url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar"
+				},
+				{
+					"file": "xlpackets-forge-1.20.1-1.0.5.jar",
+					"url": "https://cdn.modrinth.com/data/SeCuopwJ/versions/dqaBUpHl/xlpackets-forge-1.20.1-1.0.5.jar"
+				},
+				{
+					"file": "collective-1.20.1-8.7.jar",
+					"url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/XP7bFyNy/collective-1.20.1-8.7.jar"
+				},
+				{
+					"file": "LibX-1.20.1-5.0.14.jar",
+					"url": "https://cdn.modrinth.com/data/qEH6GYul/versions/YHTMDq85/LibX-1.20.1-5.0.14.jar"
+				},
+				{
+					"file": "productivebees-1.20.1-12.6.0.jar",
+					"url": "https://cdn.modrinth.com/data/jH6iiqkd/versions/mywVOObd/productivebees-1.20.1-12.6.0.jar"
+				},
+				{
+					"file": "sophisticatedbackpacks-1.20.1-3.24.9.1391.jar",
+					"url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/WtkFT2Nf/sophisticatedbackpacks-1.20.1-3.24.9.1391.jar"
+				},
+				{
+					"file": "sophisticatedcore-1.20.1-1.2.105.1230.jar",
+					"url": "https://cdn.modrinth.com/data/nmoqTijg/versions/Zcs5W3Dd/sophisticatedcore-1.20.1-1.2.105.1230.jar"
+				},
+				{
+					"file": "Cucumber-1.20.1-7.0.15.jar",
+					"url": "https://cdn.modrinth.com/data/Rw1NrDzF/versions/tHDveaxK/Cucumber-1.20.1-7.0.15.jar"
+				},
+				{
+					"file": "MysticalAgriculture-1.20.1-7.0.23.jar",
+					"url": "https://cdn.modrinth.com/data/C95ReXie/versions/L4VoS46I/MysticalAgriculture-1.20.1-7.0.23.jar"
+				},
+				{
+					"file": "MysticalAgradditions-1.20.1-7.0.11.jar",
+					"url": "https://cdn.modrinth.com/data/pl0jGXIx/versions/2HH3MNTl/MysticalAgradditions-1.20.1-7.0.11.jar"
+				},
+				{
+					"file": "oculus-mc1.20.1-1.8.0.jar",
+					"url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar"
+				},
+				{
+					"file": "chloride-FORGE-mc1.20.1-v1.7.2.jar",
+					"url": "https://cdn.modrinth.com/data/yD9qW65f/versions/mhoiaJiH/chloride-FORGE-mc1.20.1-v1.7.2.jar"
+				},
+				{
+					"file": "open-parties-and-claims-forge-1.20.1-0.25.6.jar",
+					"url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/3HgfsZeU/open-parties-and-claims-forge-1.20.1-0.25.6.jar"
+				},
+				{
+					"file": "RoughlyEnoughItems-12.1.785-forge.jar",
+					"url": "https://cdn.modrinth.com/data/nfn13YXA/versions/IoS2AjPk/RoughlyEnoughItems-12.1.785-forge.jar"
+				},
+				{
+					"file": "architectury-9.2.14-forge.jar",
+					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+				},
+				{
+					"file": "mcmouser-1.20-forge-1.0.0.jar",
+					"url": "https://cdn.modrinth.com/data/aXReRvgU/versions/mhWe3rxI/mcmouser-1.20-forge-1.0.0.jar"
+				},
+				{
+					"file": "notenoughanimations-forge-1.10.3.1-mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/TBYOXGCv/notenoughanimations-forge-1.10.3.1-mc1.20.1.jar"
+				},
+				{
+					"file": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+					"url": "https://cdn.modrinth.com/data/e0bNACJD/versions/YXTfAkOf/SereneSeasons-forge-1.20.1-9.1.0.2.jar"
+				},
+				{
+					"file": "ironchest-1.20.1-14.4.4.jar",
+					"url": "https://cdn.modrinth.com/data/P3iIrPH3/versions/YjbOtYwN/ironchest-1.20.1-14.4.4.jar"
+				},
+				{
+					"file": "IronBarrels1.20.1-V1.01.jar",
+					"url": "https://cdn.modrinth.com/data/7qvEFHn9/versions/ZQz1ba1C/IronBarrels1.20.1-V1.01.jar"
+				},
+				{
+					"file": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/I156ee3A/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+				},
+				{
+					"file": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/d0EFLitO/sodiumoptionsapi-forge-1.0.10-1.20.1.jar"
+				},
+				{
+					"file": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+					"url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+				},
+				{
+					"file": "REIPluginCompatibilities-forge-12.0.93.jar",
+					"url": "https://cdn.modrinth.com/data/1PfY6b5p/versions/XwQE7XRH/REIPluginCompatibilities-forge-12.0.93.jar"
+				},
+				{
+					"file": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/XweDEycJ/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
+				},
+				{
+					"file": "Connector-1.0.0-beta.46+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/u58R1TMW/versions/e8hSZ4vp/Connector-1.0.0-beta.46%2B1.20.1.jar"
+				},
+				{
+					"file": "continuity-3.0.0+1.20.1.forge.jar",
+					"url": "https://cdn.modrinth.com/data/1IjD5062/versions/9KbAcWSO/continuity-3.0.0%2B1.20.1.forge.jar"
+				},
+				{
+					"file": "Female-Gender-Mod-forge-1.20.1-3.1.jar",
+					"url": "https://cdn.modrinth.com/data/bcOsQHnC/versions/R1d8TWqL/Female-Gender-Mod-forge-1.20.1-3.1.jar"
+				},
+				{
+					"file": "MythicBotany-1.20.1-4.0.4.jar",
+					"url": "https://github.com/CubeShield/CubeTranslation/releases/download/v1.0/MythicBotany-1.20.1-4.0.4.jar"
+				},
+				{
+					"file": "tombstone-1.20.1-9.0.9.jar",
+					"url": "https://github.com/CubeShield/CubeTranslation/releases/download/v1.0/tombstone-1.20.1-9.0.9.jar"
+				}
+			]
+		},
+		{
+			"content_type": "resourcepacks",
+			"content": []
+		}
+	]
+}
