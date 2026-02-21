@@ -1,7 +1,7 @@
 {
 	"name": "CubeShield X",
 	"description": "Молодежный сезон с непожилыми модами, качайте, не пожалеите!",
-	"image_url": "",
+	"image_url": "https://raw.githubusercontent.com/CubeShield/CubeShieldX-Instance/refs/heads/main/logo.png",
 	"containers": [
 		{
 			"content_type": "mods",
